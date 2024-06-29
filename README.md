@@ -1,4 +1,4 @@
-## A study on hindrances in an individual's career development -Loopholes in the Education System
+## A study on loopholes in the current Education System
 
 ### Project Overview
 - Conducted a survey to identify issues in education system that hinders students’ potential.
